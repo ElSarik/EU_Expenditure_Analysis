@@ -1,4 +1,4 @@
-# Define UI for application that draws a histogram
+# Application's UI page
 ui <- fluidPage(
   
   # Application title
